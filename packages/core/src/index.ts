@@ -1,1 +1,3 @@
-export const a = 3;
+export const a = 3
+
+console.log('###aaa')
