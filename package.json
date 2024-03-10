@@ -1,5 +1,5 @@
 {
-  "name": "faster-portal",
+  "name": "blitz-monorepo",
   "private": true,
   "scripts": {
     "build": "turbo build",
