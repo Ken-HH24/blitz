@@ -5,8 +5,5 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   parserOptions: {
     project: true,
-  },
-  rules: {
-    "no-console": 2
   }
 };
